@@ -1,0 +1,27 @@
+export const Navdata=[
+    {
+        label:"Iphone",
+        path:"iphone",
+        xs:3
+    },
+    {
+        label:"Samsung",
+        path:"Samsung",
+        xs:3
+    },
+    {
+        label:"Redmi",
+        path:"redmi",
+        xs:2
+    },
+    {
+        label:"Realme",
+        path:"realme",
+        xs:2
+    },
+    {
+        label:"OnePlus",
+        path:"oneplus",
+        xs:2
+    }
+]

@@ -1,0 +1,21 @@
+export const NavData=[
+    {
+        label:"Home",
+        link:"/",
+        xs:2
+    },
+    {
+        label:"About",
+        link:"/about",
+        xs:2
+    },
+    {
+        label:"Contact",
+        link:"/con",
+        xs:2
+    },{
+        label:"Product",
+        link:"/prod",
+        xs:2
+    }
+]
